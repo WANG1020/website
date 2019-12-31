@@ -333,7 +333,7 @@ body: new ListView(
 //...
 {% endprettify %}
 
-**Dart 代码:** [main.dart](https://raw.githubusercontent.com/flutter/website/master/_includes/code/layout/lakes/main.dart)<br>
+**Dart 代码:** [main.dart](https://github.com/flutter/website/blob/master/examples/layout/lakes/step6/lib/main.dart)<br>
 **Image:** [images](https://github.com/flutter/website/tree/master/_includes/code/layout/lakes/images)<br>
 **Pubspec:** [pubspec.yaml](https://raw.githubusercontent.com/flutter/website/master/_includes/code/layout/lakes/pubspec.yaml)
 
